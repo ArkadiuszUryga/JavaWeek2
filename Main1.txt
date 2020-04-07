@@ -1,0 +1,3 @@
+Wpisz cokolwiek
+zostanie to zapisane do pliku.
+Wpisanie słowa
